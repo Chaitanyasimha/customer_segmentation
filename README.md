@@ -109,3 +109,6 @@ This project demonstrates the value of customer segmentation in understanding an
 ---
 
 By following this README, users can understand the project's purpose, the technologies used, and how to run the project step-by-step. This README is designed to be clear, concise, and professional, ensuring it is well-received by everyone.
+
+## Portfolio Repository
+For more projects and a complete overview of my work, please visit my [Portfolio Repository](https://github.com/YourUsername/portfolio-repo-name).
